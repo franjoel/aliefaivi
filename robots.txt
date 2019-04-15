@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://diyaixeet.subject.space/sitemap.xml
